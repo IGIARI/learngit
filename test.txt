@@ -3,3 +3,4 @@ Push something to remote.
 Add from branch master & feature1.
 Test the no-ff.
 Add another line.
+This line is added from dev2.
